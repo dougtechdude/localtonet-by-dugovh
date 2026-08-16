@@ -1,0 +1,1 @@
+{"config":{"step":{"user":{"title":"Connect to Localtonet","description":"Enter the API base URL and API key.","data":{"base_url":"API base URL","api_key":"API key"}}},"error":{"cannot_connect":"Unable to connect or validate the API key."},"abort":{"already_configured":"This endpoint is already configured."}}}
